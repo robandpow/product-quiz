@@ -1,0 +1,680 @@
+{
+  "date": "2026-11-21",
+  "canvas": 1000,
+  "maxContentExtent": 820,
+  "quality": 0.88,
+  "items": [
+    {
+      "id": "real-nightlight",
+      "source": "assets/real/nightlight-v2.jpg",
+      "image": "assets/prepared/real-nightlight.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 340,
+        "top": 145,
+        "width": 554,
+        "height": 886
+      },
+      "sourceSize": {
+        "width": 1200,
+        "height": 1200
+      },
+      "sourceSha256": "e83036b41f6bd425baa94d6f92e98246c33602ff81bcfbd924c7e07a7bb60d08",
+      "sha256": "6d832da7f6202bf81e921094d0437c39b21823923a63b4805a7ad95fdd236aa7",
+      "bytes": 8568,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "real-garlic-press",
+      "source": "assets/real/garlic-press.jpg",
+      "image": "assets/prepared/real-garlic-press.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 15,
+        "top": 100,
+        "width": 575,
+        "height": 490
+      },
+      "sourceSize": {
+        "width": 600,
+        "height": 600
+      },
+      "sourceSha256": "df4b4ea18139fe8ac39724f49bb7f8354ade34c419485eb6afe778518971d54c",
+      "sha256": "03b6e5f4a5d35bf4f8c3fa38f6e42bc1a097f89b79da42be975dee22f0c6e02a",
+      "bytes": 21210,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "real-potato-masher",
+      "source": "assets/real/potato-masher.jpg",
+      "image": "assets/prepared/real-potato-masher.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 18,
+        "top": 243,
+        "width": 564,
+        "height": 338
+      },
+      "sourceSize": {
+        "width": 600,
+        "height": 600
+      },
+      "sourceSha256": "133d61e6e86a43e90b961b7eb3bd7307766373428e105e8db40c1925503cbbb2",
+      "sha256": "26294e2a533e06738a7902f43d9ceeaeed704c5e94525a1a7cc9c7d1e94a3f25",
+      "bytes": 13806,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "real-pushup-bars",
+      "source": "assets/real/pushup-bars.webp",
+      "image": "assets/prepared/real-pushup-bars.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 2,
+        "top": 163,
+        "width": 638,
+        "height": 312
+      },
+      "sourceSize": {
+        "width": 640,
+        "height": 640
+      },
+      "sourceSha256": "549f89d01710799a90dcf51ba7939f030c8ef7aeca33564c36cfe4397603ecef",
+      "sha256": "3300be627cf20c02fe0d8b76f6208d274009792175d0bf95e1a6a4bc23648be8",
+      "bytes": 16088,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "real-tiny-pump",
+      "source": "assets/real/outdoor-v2.jpg",
+      "image": "assets/prepared/real-tiny-pump.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 205,
+        "top": 125,
+        "width": 790,
+        "height": 684
+      },
+      "sourceSize": {
+        "width": 1200,
+        "height": 933
+      },
+      "sourceSha256": "6d99491f53d00fab93da863ef4d8aadb74ca0d5eed724d05d613ffc992d0d1b2",
+      "sha256": "4ff7b5669a4c617643f33020fc6b26d91573572187d86d726bc72f4ced61d98b",
+      "bytes": 19166,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "real-contour-gauge",
+      "source": "assets/real/contour-gauge.png",
+      "image": "assets/prepared/real-contour-gauge.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 13,
+        "top": 218,
+        "width": 767,
+        "height": 363
+      },
+      "sourceSize": {
+        "width": 800,
+        "height": 800
+      },
+      "sourceSha256": "461a77f897aedb23e8505ba2871dae1c645410a67e368a6ef0f4bc3762e7a8b8",
+      "sha256": "888933b38583f106ac775935f6bd8c107a0e6537e78674182170db85bb2a7736",
+      "bytes": 40900,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "real-brush-bowl",
+      "source": "assets/real/brush-bowl.webp",
+      "image": "assets/prepared/real-brush-bowl.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 732,
+        "height": 960
+      },
+      "sourceSize": {
+        "width": 732,
+        "height": 960
+      },
+      "sourceSha256": "ccbed784ac31cc06413e221e8fc6382f8be6ee2ee33d0999862ae0d4c8a90341",
+      "sha256": "2658e41cf345b5cce40a74d82406d2e4e78cf90ef429f8996db0df9a440a0600",
+      "bytes": 33252,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "real-ice-roller",
+      "source": "assets/real/ice-roller.webp",
+      "image": "assets/prepared/real-ice-roller.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 388,
+        "height": 960
+      },
+      "sourceSize": {
+        "width": 388,
+        "height": 960
+      },
+      "sourceSha256": "6f1b9a5e71b5138f16c6a48311f91e454f38c56bea40a6b567c2a2483af7f67a",
+      "sha256": "865be369147f829634f73d2886d2f4a21a482f767ffb38b5cc82a5283173da22",
+      "bytes": 9390,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "baby-cloud",
+      "source": "content/originals/baby-cloud-v2.png",
+      "image": "assets/prepared/baby-cloud.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 124,
+        "top": 243,
+        "width": 993,
+        "height": 815
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "0a2697d6542a65b2f2a4018b16ea324561b281f71b83e4dd5b0fb99c4acb6c3c",
+      "sha256": "6814bba39df866ab99ae5613a272087edb79e304e828f5abcedcd8aaab83bcde",
+      "bytes": 10994,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "baby-organizer",
+      "source": "content/originals/baby-organizer-v2.png",
+      "image": "assets/prepared/baby-organizer.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 79,
+        "top": 218,
+        "width": 1091,
+        "height": 857
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "da4fddb09a93f7f6be7b39f0ba3bb1127748ea7011c4a885877a52a4bfacbeda",
+      "sha256": "cd7ecb4125947f555366ab1ad115bd6712a2225834e597089705efa2d4c20ca8",
+      "bytes": 16386,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "baby-owl",
+      "source": "content/originals/baby-owl-v2.png",
+      "image": "assets/prepared/baby-owl.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 250,
+        "top": 204,
+        "width": 749,
+        "height": 887
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "660c759b86100a67bedc203b6f9e6a6052bb329af86c1537a0183d0ff74317e2",
+      "sha256": "a84bc6b9d0d8f961794b6626d36020c73ee231867a89e6efa379abdc8d2f3861",
+      "bytes": 14248,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "kitchen-fold",
+      "source": "content/originals/kitchen-fold-v2.png",
+      "image": "assets/prepared/kitchen-fold.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 54,
+        "top": 260,
+        "width": 1145,
+        "height": 852
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "b5d4306121187831c59a96f9cea5214836858bd8118f9f40105fb2f0e34267ca",
+      "sha256": "11ebad2816a28ebf68535ec6327fc438d45feab6b1fe809d4244cabe6f0a4b38",
+      "bytes": 26648,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "gym-grip",
+      "source": "content/originals/gym-grip-v2.png",
+      "image": "assets/prepared/gym-grip.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 22,
+        "top": 313,
+        "width": 1219,
+        "height": 687
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "90bb78c406e9c76b87208bdeec75f5ad29c20b9d2cd3ff3dd9e0392263a987f9",
+      "sha256": "5584ec1d9470226d38dae69cfd8441322bdbeed878e0dbb8458a21dda873da7b",
+      "bytes": 27392,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "gym-slider",
+      "source": "content/originals/gym-slider-v2.png",
+      "image": "assets/prepared/gym-slider.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 30,
+        "top": 360,
+        "width": 1198,
+        "height": 626
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "0e182f7316956992c79733109e0c0dd19130189dc6be449fb43a631741e9cd50",
+      "sha256": "c612065bf64734dccd8a27698e5b1132739b01ecca61666bd293feb13fe0a2c3",
+      "bytes": 46824,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "gym-roller",
+      "source": "content/originals/gym-roller-v2.png",
+      "image": "assets/prepared/gym-roller.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 113,
+        "top": 264,
+        "width": 985,
+        "height": 769
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "1c815d47ea98ef4f945aeb9cf15521e23c6d627f84c7889f5f17a6aca96360cb",
+      "sha256": "6ae540487e9f20f8578f2c05c6b1d30f2b4ca303fee54e11a06cfbd515b1cf07",
+      "bytes": 62280,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "outdoor-lamp",
+      "source": "content/originals/outdoor-lamp-v2.png",
+      "image": "assets/prepared/outdoor-lamp.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 253,
+        "top": 26,
+        "width": 725,
+        "height": 1195
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "863bfc63f48300dc54db189ec29a1169bef0d5b84c7121f13457cbd2a8330592",
+      "sha256": "194517bcd41a2d3c2df107f313099ae5800334056443b14ef742e5488af2aea8",
+      "bytes": 26918,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "outdoor-cup",
+      "source": "content/originals/outdoor-cup-v2.png",
+      "image": "assets/prepared/outdoor-cup.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 101,
+        "top": 200,
+        "width": 1108,
+        "height": 899
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "2a0cf7159f3d15df59326fa3750c5aa0b8faebe592d15e26da76edc6ecb8da64",
+      "sha256": "f04a7b4b5f2d8bb14c168bd3f32ab5def3883e818b955780160d394b75f33404",
+      "bytes": 30532,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "outdoor-dryer",
+      "source": "content/originals/outdoor-dryer-v2.png",
+      "image": "assets/prepared/outdoor-dryer.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 35,
+        "top": 169,
+        "width": 1177,
+        "height": 914
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "73f5db9d71711be55d5b85caeb8de337e5ae1245dd3ac7521fa136d87f05f55f",
+      "sha256": "5205eba2a1d7b0e1f13d3b1fcf08628a6de572059eb4881777b06d2550ca5ca3",
+      "bytes": 31032,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "diy-guide",
+      "source": "content/originals/diy-guide-v2.png",
+      "image": "assets/prepared/diy-guide.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 18,
+        "top": 162,
+        "width": 1218,
+        "height": 969
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "649d679a15b9fa9946a0635d426b2add2e02d70bdbdf507986da0dc833c8420a",
+      "sha256": "cfee6a9c24612beec7a9f6d62e7c49c0bb456aa6db3b60d1da583fc5af28bae3",
+      "bytes": 63702,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "diy-clamp",
+      "source": "content/originals/diy-clamp-v2.png",
+      "image": "assets/prepared/diy-clamp.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 74,
+        "top": 200,
+        "width": 1109,
+        "height": 875
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "af57bcea6f908f78d9c2048ee4a22e9c2c9bbb358f4e7617b2baf3513ead8211",
+      "sha256": "dbae128ee83bd31385711fd5940aa363aaa10b6fce7821f04260eecf07afdc2c",
+      "bytes": 73160,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "diy-holder",
+      "source": "content/originals/diy-holder-v2.png",
+      "image": "assets/prepared/diy-holder.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 168,
+        "top": 176,
+        "width": 913,
+        "height": 915
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "08212bf3e89d7de7fc96faac23ba9513f30c603a0089618b1b1490b6c21ff856",
+      "sha256": "e0aa85944d1a879827ebc5648a3f303abba899d110e72d6cc4b57a0ac6d2b9e7",
+      "bytes": 107252,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "care-dock",
+      "source": "content/originals/care-dock-v2.png",
+      "image": "assets/prepared/care-dock.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 183,
+        "top": 57,
+        "width": 882,
+        "height": 1149
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "e2184a427065f7df32e12d85ff956f50812500f725c936718ff002efc67baf9d",
+      "sha256": "55f7bed0c3c89cf987491f3a2f6375c7762c2dcf14137e56aa0166cf2420ddf0",
+      "bytes": 29038,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "care-travel",
+      "source": "content/originals/care-travel-v2.png",
+      "image": "assets/prepared/care-travel.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 308,
+        "top": 0,
+        "width": 637,
+        "height": 1254
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "8cb5ba96eb69ff6d224dc5a7cae2163ef4f3d3671670101303ddd399ea54df86",
+      "sha256": "82c5f920435d779dde60878ef9cb396dd46429bee3364212fa751efaaa2d6054",
+      "bytes": 40748,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "appliance-mini",
+      "source": "content/originals/appliance-mini.png",
+      "image": "assets/prepared/appliance-mini.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 194,
+        "top": 119,
+        "width": 801,
+        "height": 1059
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "a0cf84fabcd3bc0c17327f63157bbf762de66381f3f725116fe390aed95750cd",
+      "sha256": "3cfbc70d7de622780a798fd71c92ff69fa2acad91395da1febcd5111201857e5",
+      "bytes": 21280,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "appliance-froth",
+      "source": "content/originals/appliance-froth.png",
+      "image": "assets/prepared/appliance-froth.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 167,
+        "top": 90,
+        "width": 913,
+        "height": 1118
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "f586c9f499cb9c3d21ddfdf3dbcef616c93853599f55157008f374a42b53f8ec",
+      "sha256": "a58f6a00f66341b198de2ab83adb5c554cd8b71d34b62085477c2e259e53af8b",
+      "bytes": 21976,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "appliance-scale",
+      "source": "content/originals/appliance-scale.png",
+      "image": "assets/prepared/appliance-scale.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 85,
+        "top": 179,
+        "width": 1074,
+        "height": 992
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "3e8d1044bbdaa252d0e4583e1acc3bf6af5263ebd5e0f3f8f9f9513844e4f66e",
+      "sha256": "6db5d3419f7607529f731a14b2c5885adb0ba130bd9b334d108844e1d5b06615",
+      "bytes": 30682,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "appliance-vac",
+      "source": "content/originals/appliance-vac.png",
+      "image": "assets/prepared/appliance-vac.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 125,
+        "top": 157,
+        "width": 1051,
+        "height": 988
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "c4f6ba07e256a5356c3d58bf4866350a521550c321cdb1298700698358027abd",
+      "sha256": "5e1407a55b22f3bb890e09700fdea2259dcd6e4cc919b76e1e63d48171a3dac7",
+      "bytes": 35640,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "gift-pot",
+      "source": "content/originals/gift-pot.png",
+      "image": "assets/prepared/gift-pot.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 54,
+        "top": 189,
+        "width": 1144,
+        "height": 956
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "9e4f7a30d8b40222cd0a7153b7a6a3a07dcef69edbb30bacc57c935afd894f52",
+      "sha256": "666b32a3a0525d3475ac7727abba7203ccc4e82badf1b0ef97f128b3ba851ee8",
+      "bytes": 20304,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "gift-box",
+      "source": "content/originals/gift-box.png",
+      "image": "assets/prepared/gift-box.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 126,
+        "top": 79,
+        "width": 977,
+        "height": 1164
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "b95cfd60609202e6fe612ad17c259c01abcd456946c275c5cdb6ca68c90e8fd4",
+      "sha256": "45e4dbe7e03510d6c44a1be61a4e63a1ea4f30f1283e9bb10a77fb6aa98c6e8e",
+      "bytes": 46316,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "gift-light",
+      "source": "content/originals/gift-light.png",
+      "image": "assets/prepared/gift-light.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 213,
+        "top": 71,
+        "width": 774,
+        "height": 1146
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "03495193bde9801b02f689face410ec6ea38a349cd2928f0af322d9d02857b79",
+      "sha256": "ca259298e1ce3df49f31a00720dc5477c049000ea1d601935ef44bc27f4b1aed",
+      "bytes": 18582,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "gift-clean",
+      "source": "content/originals/gift-clean.png",
+      "image": "assets/prepared/gift-clean.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 32,
+        "top": 237,
+        "width": 1218,
+        "height": 823
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "35dab6fe3b2a89ae8bc73b6d3cc846d9e78134cec30425047106b1b39cdc0476",
+      "sha256": "273fc8ee6aa225e4d1abffebca122b80a258739b2a09e3206bf8b1ee20faec0b",
+      "bytes": 30062,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    },
+    {
+      "id": "herb-cup",
+      "source": "content/originals/herb-cup-v2.png",
+      "image": "assets/prepared/herb-cup.webp",
+      "width": 1000,
+      "height": 1000,
+      "crop": {
+        "left": 163,
+        "top": 166,
+        "width": 972,
+        "height": 965
+      },
+      "sourceSize": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sourceSha256": "b5812683c08def51f518af9b2e864c53aa13f143afbb366f1533592e156c8257",
+      "sha256": "23c233f3e29150d5e067b2aa043d6e8c8d8af54469665e6d2b2331b0b48b2972",
+      "bytes": 20400,
+      "method": "Rectangular whitespace crop, proportional resize, white padding and WebP encoding. No segmentation, retouching, logo removal or AI changes to sourced products."
+    }
+  ]
+}

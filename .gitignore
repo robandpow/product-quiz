@@ -1,0 +1,25 @@
+dist/
+node_modules/
+.impeccable/
+test-results/
+.playwright-mcp/
+.omc/
+
+# Local credentials, machine settings and logs
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.npmrc
+.aws/
+.codex/
+.agents/
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+
+# Large generation originals are retained locally, not needed to run or build.
+content/originals/

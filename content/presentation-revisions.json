@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-21",
+  "tool": "built-in image_gen",
+  "purpose": "Match fictional designs to genuine source-photo styles and remove presentation clues.",
+  "items": [
+    {
+      "id": "baby-cloud",
+      "category": "baby",
+      "title": "Nattlampe",
+      "referenceImage": "assets/real/nightlight-v2.jpg",
+      "image": "assets/generated/baby-cloud-v2.webp",
+      "original": "content/originals/baby-cloud-v2.png",
+      "prompt": "Use case: product-mockup. Create ONE new fictional product design packshot for a Norwegian educational quiz about invented products. Input image 1 is a PHOTOGRAPHIC STYLE REFERENCE ONLY: do not reproduce its product, logo, lettering or brand. New subject: a small matte ivory silicone cloud nightlight with a discreet terracotta semicircular dimmer dial in its flat base, believable simple moulded construction. Use a near-front eye-level catalogue view. Match the reference's softly lit matte material, gentle warmth, neutral white background, clean sharpness and small subtle contact shadow. Avoid oversized floor shadows, dramatic rim light or a CGI showroom appearance. Single complete product centered, square canvas, comfortable white margins, longest product dimension about 75 percent of frame. Preserve coherent plausible manufacturing details, realistic plastic, fabric or metal as appropriate. No retailer graphics, no surrounding frame, no accessories unless part of the described subject, no inset images, no captions or watermarks. The new design is a concept created for the quiz, not a claim that a physical product exists."
+    },
+    {
+      "id": "baby-organizer",
+      "category": "baby",
+      "title": "Stellekurv",
+      "referenceImage": "assets/real/nightlight-v2.jpg",
+      "image": "assets/generated/baby-organizer-v2.webp",
+      "original": "content/originals/baby-organizer-v2.png",
+      "prompt": "Use case: product-mockup. Create ONE new fictional product design packshot for a Norwegian educational quiz about invented products. Input image 1 is a PHOTOGRAPHIC STYLE REFERENCE ONLY: do not reproduce its product, logo, lettering or brand. New subject: a compact oval powder blue plastic nursery supply caddy with three divided compartments, a pale wood swing handle and small removable oval side tray, empty. Use a near-front eye-level catalogue view. Match the reference's softly lit matte material, gentle warmth, neutral white background, clean sharpness and small subtle contact shadow. Avoid oversized floor shadows, dramatic rim light or a CGI showroom appearance. Single complete product centered, square canvas, comfortable white margins, longest product dimension about 75 percent of frame. Preserve coherent plausible manufacturing details, realistic plastic, fabric or metal as appropriate. No retailer graphics, no surrounding frame, no accessories unless part of the described subject, no inset images, no captions or watermarks. The new design is a concept created for the quiz, not a claim that a physical product exists."
+    },
+    {
+      "id": "baby-owl",
+      "category": "baby",
+      "title": "Nattlampe",
+      "referenceImage": "assets/real/nightlight-v2.jpg",
+      "image": "assets/generated/baby-owl-v2.webp",
+      "original": "content/originals/baby-owl-v2.png",
+      "prompt": "Use case: product-mockup. Create ONE new fictional product design packshot for a Norwegian educational quiz about invented products. Input image 1 is a PHOTOGRAPHIC STYLE REFERENCE ONLY: do not reproduce its product, logo, lettering or brand. New subject: a compact warm yellow silicone owl-shaped nightlight with broad rounded wings and a small circular white pedestal, simple black inset eyes, no glowing effects. Use a near-front eye-level catalogue view. Match the reference's softly lit matte material, gentle warmth, neutral white background, clean sharpness and small subtle contact shadow. Avoid oversized floor shadows, dramatic rim light or a CGI showroom appearance. Single complete product centered, square canvas, comfortable white margins, longest product dimension about 75 percent of frame. Preserve coherent plausible manufacturing details, realistic plastic, fabric or metal as appropriate. No retailer graphics, no surrounding frame, no accessories unless part of the described subject, no inset images, no captions or watermarks. The new design is a concept created for the quiz, not a claim that a physical product exists."
+    },
+    {
+      "id": "kitchen-fold",
+      "category": "kitchen",
+      "title": "Sammenleggbar sil",
+      "referenceImage": "assets/real/garlic-press.jpg",
+      "image": "assets/generated/kitchen-fold-v2.webp",
+      "original": "content/originals/kitchen-fold-v2.png",
+      "prompt": "Use case: product-mockup. Create ONE new fictional product design packshot for a Norwegian educational quiz about invented products. Input image 1 is a PHOTOGRAPHIC STYLE REFERENCE ONLY: do not reproduce its product, logo, lettering or brand. New subject: a compact foldable rust-orange silicone colander shaped like a rounded square with a rigid dark gray rim and two short folding handles, half expanded, holes regular and physically coherent. Match the reference's plain isolated catalogue photography: diffuse lighting, slight three-quarter view from above, flat white backdrop, no conspicuous floor shadow, ordinary plastic/steel texture and restrained contrast. Do not use a staged tabletop scene. Single complete product centered, square canvas, comfortable white margins, longest product dimension about 75 percent of frame. Preserve coherent plausible manufacturing details, realistic plastic, fabric or metal as appropriate. No retailer graphics, no surrounding frame, no accessories unless part of the described subject, no inset images, no captions or watermarks. The new design is a concept created for the quiz, not a claim that a physical product exists."
+    },
+    {
+      "id": "gym-grip",
+      "category": "gym",
+      "title": "Treningshåndtak",
+      "referenceImage": "assets/real/pushup-bars.webp",
+      "image": "assets/generated/gym-grip-v2.webp",
+      "original": "content/originals/gym-grip-v2.png",
+      "prompt": "Use case: product-mockup. Create ONE new fictional product design packshot for a Norwegian educational quiz about invented products. Input image 1 is a PHOTOGRAPHIC STYLE REFERENCE ONLY: do not reproduce its product, logo, lettering or brand. New subject: a pair of compact push-up handles with graphite textured grips and distinctive flat U-shaped muted blue bases, realistic non-slip rubber feet, no mechanisms or logos. Match the reference's ordinary catalogue photography: white backdrop, three-quarter angle, broad diffuse light, restrained texture and low, understated shadow. Avoid the richer dramatic CGI shading of a premium concept render. Include a tiny readable functional label on the item where appropriate, such as GRIP, SLIDE or ROLL; no brand names. Single complete product centered, square canvas, comfortable white margins, longest product dimension about 75 percent of frame. Preserve coherent plausible manufacturing details, realistic plastic, fabric or metal as appropriate. No retailer graphics, no surrounding frame, no accessories unless part of the described subject, no inset images, no captions or watermarks. The new design is a concept created for the quiz, not a claim that a physical product exists."
+    },
+    {
+      "id": "gym-slider",
+      "category": "gym",
+      "title": "Treningsglidere",
+      "referenceImage": "assets/real/pushup-bars.webp",
+      "image": "assets/generated/gym-slider-v2.webp",
+      "original": "content/originals/gym-slider-v2.png",
+      "prompt": "Use case: product-mockup. Create ONE new fictional product design packshot for a Norwegian educational quiz about invented products. Input image 1 is a PHOTOGRAPHIC STYLE REFERENCE ONLY: do not reproduce its product, logo, lettering or brand. New subject: a pair of oval charcoal exercise sliding discs with understated ochre removable padded hand straps and gray foam top inserts, aligned side by side. Match the reference's ordinary catalogue photography: white backdrop, three-quarter angle, broad diffuse light, restrained texture and low, understated shadow. Avoid the richer dramatic CGI shading of a premium concept render. Include a tiny readable functional label on the item where appropriate, such as GRIP, SLIDE or ROLL; no brand names. Single complete product centered, square canvas, comfortable white margins, longest product dimension about 75 percent of frame. Preserve coherent plausible manufacturing details, realistic plastic, fabric or metal as appropriate. No retailer graphics, no surrounding frame, no accessories unless part of the described subject, no inset images, no captions or watermarks. The new design is a concept created for the quiz, not a claim that a physical product exists."
+    },
+    {
+      "id": "gym-roller",
+      "category": "gym",
+      "title": "Massasjerulle",
+      "referenceImage": "assets/real/pushup-bars.webp",
+      "image": "assets/generated/gym-roller-v2.webp",
+      "original": "content/originals/gym-roller-v2.png",
+      "prompt": "Use case: product-mockup. Create ONE new fictional product design packshot for a Norwegian educational quiz about invented products. Input image 1 is a PHOTOGRAPHIC STYLE REFERENCE ONLY: do not reproduce its product, logo, lettering or brand. New subject: a short charcoal textured foam massage roller with a removable matching peach massage ball sitting beside a central hollow core, plausible ordinary fitness accessory. Match the reference's ordinary catalogue photography: white backdrop, three-quarter angle, broad diffuse light, restrained texture and low, understated shadow. Avoid the richer dramatic CGI shading of a premium concept render. Include a tiny readable functional label on the item where appropriate, such as GRIP, SLIDE or ROLL; no brand names. Single complete product centered, square canvas, comfortable white margins, longest product dimension about 75 percent of frame. Preserve coherent plausible manufacturing details, realistic plastic, fabric or metal as appropriate. No retailer graphics, no surrounding frame, no accessories unless part of the described subject, no inset images, no captions or watermarks. The new design is a concept created for the quiz, not a claim that a physical product exists."
+    },
+    {
+      "id": "diy-guide",
+      "category": "diy",
+      "title": "Boreguide",
+      "referenceImage": "assets/real/contour-gauge.png",
+      "image": "assets/generated/diy-guide-v2.webp",
+      "original": "content/originals/diy-guide-v2.png",
+      "prompt": "Use case: product-mockup. Create ONE new fictional product design packshot for a Norwegian educational quiz about invented products. Input image 1 is a PHOTOGRAPHIC STYLE REFERENCE ONLY: do not reproduce its product, logo, lettering or brand. New subject: a palm-sized charcoal and yellow portable drill alignment guide with a clear flat base plate, two metal guide bushings and a small green bubble level, no numbers or logos. Match the reference's detailed sharp catalogue cutout, three-quarter view from above, crisp material detail, broad even light, pure white background and practically no visible contact shadow. Do not show a staged floor or a dramatic cast shadow. Add at most one very small functional word such as GUIDE, BITS or CLAMP, no manufacturer name. Single complete product centered, square canvas, comfortable white margins, longest product dimension about 75 percent of frame. Preserve coherent plausible manufacturing details, realistic plastic, fabric or metal as appropriate. No retailer graphics, no surrounding frame, no accessories unless part of the described subject, no inset images, no captions or watermarks. The new design is a concept created for the quiz, not a claim that a physical product exists."
+    },
+    {
+      "id": "diy-clamp",
+      "category": "diy",
+      "title": "Hjørneklemme",
+      "referenceImage": "assets/real/contour-gauge.png",
+      "image": "assets/generated/diy-clamp-v2.webp",
+      "original": "content/originals/diy-clamp-v2.png",
+      "prompt": "Use case: product-mockup. Create ONE new fictional product design packshot for a Norwegian educational quiz about invented products. Input image 1 is a PHOTOGRAPHIC STYLE REFERENCE ONLY: do not reproduce its product, logo, lettering or brand. New subject: a single compact slate blue right-angle woodworking clamp with two aluminum jaws and a black knurled adjustment knob, physically consistent, no wood. Match the reference's detailed sharp catalogue cutout, three-quarter view from above, crisp material detail, broad even light, pure white background and practically no visible contact shadow. Do not show a staged floor or a dramatic cast shadow. Add at most one very small functional word such as GUIDE, BITS or CLAMP, no manufacturer name. Single complete product centered, square canvas, comfortable white margins, longest product dimension about 75 percent of frame. Preserve coherent plausible manufacturing details, realistic plastic, fabric or metal as appropriate. No retailer graphics, no surrounding frame, no accessories unless part of the described subject, no inset images, no captions or watermarks. The new design is a concept created for the quiz, not a claim that a physical product exists."
+    },
+    {
+      "id": "diy-holder",
+      "category": "diy",
+      "title": "Bitsholder",
+      "referenceImage": "assets/real/contour-gauge.png",
+      "image": "assets/generated/diy-holder-v2.webp",
+      "original": "content/originals/diy-holder-v2.png",
+      "prompt": "Use case: product-mockup. Create ONE new fictional product design packshot for a Norwegian educational quiz about invented products. Input image 1 is a PHOTOGRAPHIC STYLE REFERENCE ONLY: do not reproduce its product, logo, lettering or brand. New subject: a gray nylon wrist strap with an integrated small curved terracotta silicone bit organiser containing five short steel hex driver bits, realistic fabric and stitching, no hand. Match the reference's detailed sharp catalogue cutout, three-quarter view from above, crisp material detail, broad even light, pure white background and practically no visible contact shadow. Do not show a staged floor or a dramatic cast shadow. Add at most one very small functional word such as GUIDE, BITS or CLAMP, no manufacturer name. Single complete product centered, square canvas, comfortable white margins, longest product dimension about 75 percent of frame. Preserve coherent plausible manufacturing details, realistic plastic, fabric or metal as appropriate. No retailer graphics, no surrounding frame, no accessories unless part of the described subject, no inset images, no captions or watermarks. The new design is a concept created for the quiz, not a claim that a physical product exists."
+    },
+    {
+      "id": "care-dock",
+      "category": "care",
+      "title": "Børsteholder",
+      "referenceImage": "assets/real/brush-bowl.webp",
+      "image": "assets/generated/care-dock-v2.webp",
+      "original": "content/originals/care-dock-v2.png",
+      "prompt": "Use case: product-mockup. Create ONE new fictional product design packshot for a Norwegian educational quiz about invented products. Input image 1 is a PHOTOGRAPHIC STYLE REFERENCE ONLY: do not reproduce its product, logo, lettering or brand. New subject: a soft mauve silicone makeup brush drying stand with six differently sized flexible slots on a rounded rectangular arch, clear detachable shallow drip tray, empty, no brushes. Match the reference's direct front-on or straight overhead catalogue presentation, near-orthographic viewpoint, flat even light, pure white background, very little visible shadow, modest contrast. This must look like the same kind of product catalogue photo, not a three-quarter posed lifestyle shot. A tiny low-contrast embossed CARE label is allowed, no brand name. Single complete product centered, square canvas, comfortable white margins, longest product dimension about 75 percent of frame. Preserve coherent plausible manufacturing details, realistic plastic, fabric or metal as appropriate. No retailer graphics, no surrounding frame, no accessories unless part of the described subject, no inset images, no captions or watermarks. The new design is a concept created for the quiz, not a claim that a physical product exists."
+    },
+    {
+      "id": "care-travel",
+      "category": "care",
+      "title": "Reiseetui",
+      "referenceImage": "assets/real/brush-bowl.webp",
+      "image": "assets/generated/care-travel-v2.webp",
+      "original": "content/originals/care-travel-v2.png",
+      "prompt": "Use case: product-mockup. Create ONE new fictional product design packshot for a Norwegian educational quiz about invented products. Input image 1 is a PHOTOGRAPHIC STYLE REFERENCE ONLY: do not reproduce its product, logo, lettering or brand. New subject: an open pale green hard-shell travel organiser for skincare tools with a rounded ribbed removable silicone insert and small clear mirror inside the lid, no tools, neutral reflections. Match the reference's direct front-on or straight overhead catalogue presentation, near-orthographic viewpoint, flat even light, pure white background, very little visible shadow, modest contrast. This must look like the same kind of product catalogue photo, not a three-quarter posed lifestyle shot. A tiny low-contrast embossed CARE label is allowed, no brand name. Single complete product centered, square canvas, comfortable white margins, longest product dimension about 75 percent of frame. Preserve coherent plausible manufacturing details, realistic plastic, fabric or metal as appropriate. No retailer graphics, no surrounding frame, no accessories unless part of the described subject, no inset images, no captions or watermarks. The new design is a concept created for the quiz, not a claim that a physical product exists."
+    },
+    {
+      "id": "herb-cup",
+      "category": "kitchen",
+      "title": "Urtebeger med strippelokk",
+      "referenceImage": "assets/real/garlic-press.jpg",
+      "image": "assets/generated/herb-cup-v2.webp",
+      "original": "content/originals/herb-cup-v2.png",
+      "prompt": "Use case: product-mockup. Create ONE new fictional product design packshot for a Norwegian educational quiz about invented products. Input image 1 is a PHOTOGRAPHIC STYLE REFERENCE ONLY: do not reproduce its product, logo, lettering or brand. New subject: a smoky translucent small herb collecting cup with a removable muted sage silicone lid, a low raised fin with five graduated herb stripping holes, a little thumb tab and a subtle pouring lip; empty container. Match the reference's plain isolated catalogue photography: diffuse lighting, slight three-quarter view from above, flat white backdrop, no conspicuous floor shadow, ordinary plastic/steel texture and restrained contrast. Do not use a staged tabletop scene. Single complete product centered, square canvas, comfortable white margins, longest product dimension about 75 percent of frame. Preserve coherent plausible manufacturing details, realistic plastic, fabric or metal as appropriate. No retailer graphics, no surrounding frame, no accessories unless part of the described subject, no inset images, no captions or watermarks. The new design is a concept created for the quiz, not a claim that a physical product exists."
+    },
+    {
+      "id": "outdoor-lamp",
+      "category": "outdoor",
+      "title": "Turlykt",
+      "referenceImage": "assets/real/outdoor-v2.jpg",
+      "image": "assets/generated/outdoor-lamp-v2.webp",
+      "original": "content/originals/outdoor-lamp-v2.png",
+      "prompt": "Use case: product-mockup. Create ONE new fictional product packshot for a private Norwegian educational quiz. Input image is a PHOTOGRAPHIC STYLE REFERENCE ONLY; do not copy the product or any brand. New subject: a small forest-green rechargeable camping lantern with a frosted accordion cylindrical light diffuser, black pivoting loop handle and a subtle charging port cover, not glowing. Match the reference's ordinary outdoor-gear catalogue photography: pure white backdrop, slightly elevated three-quarter viewpoint, broad soft light, restrained reflections, believable utilitarian material texture and only a small gentle contact shadow. No theatrical lighting, no premium showroom look, no exaggerated floor shadow. Single complete product, square image, comfortable margins, product longest dimension about 75 percent of canvas. No additional props, no packaging, no inset images, no labels, no vendor logos. Physically coherent practical design with modest manufacturing details. This is an invented design illustration, not a claim that a real product exists."
+    },
+    {
+      "id": "outdoor-cup",
+      "category": "outdoor",
+      "title": "Turkopp",
+      "referenceImage": "assets/real/outdoor-v2.jpg",
+      "image": "assets/generated/outdoor-cup-v2.webp",
+      "original": "content/originals/outdoor-cup-v2.png",
+      "prompt": "Use case: product-mockup. Create ONE new fictional product packshot for a private Norwegian educational quiz. Input image is a PHOTOGRAPHIC STYLE REFERENCE ONLY; do not copy the product or any brand. New subject: a small stainless steel camping cup with a moss-green silicone grip and a single folding wire handle, shallow lid that clips to a side bracket as a tiny dish, physically plausible. Match the reference's ordinary outdoor-gear catalogue photography: pure white backdrop, slightly elevated three-quarter viewpoint, broad soft light, restrained reflections, believable utilitarian material texture and only a small gentle contact shadow. No theatrical lighting, no premium showroom look, no exaggerated floor shadow. Single complete product, square image, comfortable margins, product longest dimension about 75 percent of canvas. No additional props, no packaging, no inset images, no labels, no vendor logos. Physically coherent practical design with modest manufacturing details. This is an invented design illustration, not a claim that a real product exists."
+    },
+    {
+      "id": "outdoor-dryer",
+      "category": "outdoor",
+      "title": "Tørkehenger",
+      "referenceImage": "assets/real/outdoor-v2.jpg",
+      "image": "assets/generated/outdoor-dryer-v2.webp",
+      "original": "content/originals/outdoor-dryer-v2.png",
+      "prompt": "Use case: product-mockup. Create ONE new fictional product packshot for a private Norwegian educational quiz. Input image is a PHOTOGRAPHIC STYLE REFERENCE ONLY; do not copy the product or any brand. New subject: a compact orange and gray folding camping hanger with two articulated arms and six short rounded clothes clips, displayed open, realistic hinges. Match the reference's ordinary outdoor-gear catalogue photography: pure white backdrop, slightly elevated three-quarter viewpoint, broad soft light, restrained reflections, believable utilitarian material texture and only a small gentle contact shadow. No theatrical lighting, no premium showroom look, no exaggerated floor shadow. Single complete product, square image, comfortable margins, product longest dimension about 75 percent of canvas. No additional props, no packaging, no inset images, no labels, no vendor logos. Physically coherent practical design with modest manufacturing details. This is an invented design illustration, not a claim that a real product exists."
+    }
+  ]
+}

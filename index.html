@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="nb">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#193b32">
+  <meta name="description" content="En liten produktquiz om hvor overbevisende et bilde kan være. Åtte runder, ingen tidspress, og kanskje noen overraskelser.">
+  <title>Ekte vare? – Stol på øynene?</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Hopp til innhold</a>
+  <header class="site-header">
+    <button class="wordmark" id="home" aria-label="Ekte vare? Til forsiden">ekte vare<span>?</span></button>
+    <div class="header-actions"><span class="edition">En quiz for gavejakten</span><button class="text-button" id="about">Om quizen</button></div>
+  </header>
+  <main id="main" tabindex="-1"><div class="loading"><h1>Et øyeblikk …</h1><p>Vi gjør produktene klare.</p></div></main>
+  <noscript><p class="noscript">Quizen trenger JavaScript for å vise bilder og ta vare på svarene dine. Slå det på i nettleseren og last siden på nytt.</p></noscript>
+  <footer class="site-footer"><span>Et bilde er en begynnelse. Ikke et bevis.</span><button id="privacy" class="text-button">Svarene blir på enheten din</button></footer>
+  <dialog id="image-dialog" aria-labelledby="image-title" closedby="any">
+    <div class="dialog-top"><h2 id="image-title">Produktbilde</h2><form method="dialog"><button class="icon-button" aria-label="Lukk produktbildet" autofocus><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button></form></div>
+    <img id="large-image" src="assets/generated/herb-cup.webp" alt="Produktbilde">
+  </dialog>
+  <dialog id="info-dialog" aria-labelledby="info-title" closedby="any">
+    <div class="dialog-top"><h2 id="info-title">Om quizen</h2><form method="dialog"><button class="icon-button" aria-label="Lukk informasjon" autofocus><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button></form></div>
+    <div id="info-content" class="prose"></div>
+  </dialog>
+  <dialog id="restart-dialog" aria-labelledby="restart-title">
+    <h2 id="restart-title">Begynne på nytt?</h2><p>De lagrede svarene dine blir slettet. Produktene får nye plasseringer.</p>
+    <form method="dialog" class="button-row"><button class="secondary" value="cancel" autofocus>Behold svarene</button><button class="primary" value="restart">Start på nytt</button></form>
+  </dialog>
+  <div id="announcement" class="sr-only" role="status" aria-live="polite"></div>
+</body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "name": "ekte-vare",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/server.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node tests/quiz.test.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
